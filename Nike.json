@@ -1,0 +1,542 @@
+{
+    "Nike Air Force 1 '07": {
+        "id": 1,
+        "name": "Nike Air Force 1 '07",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 160,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ndbgikrmsa0ejcdmkvpg/air-force-1-07-shoe-3nGnlt.jpg",
+        "slug": "Nike Air Force 1 '07",
+        "desctiption": "<p>The Nike Air Force 1 '07 is the b-ball OG that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to let you shine.</p><ul><ol>Colour Shown: White/Black</ol><ol>Style: CJ0952-100</ol></ul>"
+    },
+    "Nike Air Force 1 React": {
+        "id": 2,
+        "name": "Nike Air Force 1 React",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 104,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-fe0b0aa8-5a11-4839-b1ae-28358239e214/air-force-1-react-shoe-nm7D17.jpg",
+        "slug": "Nike Air Force 1 React",
+        "desctiption": "<p>Refresh your look and step into a new AF-1 world with the Nike Air Force 1 React. It fuses modern design with iconic b-ball style for a big, bold look. The oversized Swoosh, large AIR on the midsole and new sole pattern let you express your modern world while Nike React technology adds exceptional underfoot comfort.</p><ul><ol>Colour Shown: White/University Red/Black</ol><ol>Style: CD4366-100</ol></ul>"
+    },
+    "Nike Air Max 90": {
+        "id": 3,
+        "name": "Nike Air Max 90",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 114,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/44e884ee-aabe-4bef-b4e1-b7ba83436d38/air-max-90-shoe-nDppDk.jpg",
+        "slug": "Nike Air Max 90",
+        "desctiption": "<p>Clean lines, versatile and timeless—the people's shoe returns with the Nike Air Max 90. Featuring the same iconic Waffle sole, stitched overlays and classic TPU accents you've come to love, it lets you walk among the pantheon of Air.</p><ul><ol>Colour Shown: White/Hyper Royal/Black/Particle Grey</ol><ol>Style: CD0881-102</ol></ul>"
+    },
+    "Nike Air Max VG-R": {
+        "id": 4,
+        "name": "Nike Air Max VG-R",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 89,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/88e71cfa-7c44-4a26-bb72-825e5b65c2b1/air-max-vg-r-shoe-W1dBz9.jpg",
+        "slug": "Nike Air Max VG-R",
+        "desctiption": "<p>Time happens—keep up in your Nike Air Max VG-R, a new gesture of speed and air that lets you occupy the now. Inspired by the Air Max 95, the new design quickens the shape with hybrid lines evoking GT race cars and the drivers' fast-paced breathing. Monofilament mesh on the upper adds rich texture and ventilation while Air cushioning in the heel softens the ride. Winning is just too easy when the shoes are an extension of your body.</p><ul><ol>Colour Shown: Black/Black/Anthracite/Black</ol><ol>Style: CK7583-001</ol></ul>"
+    },
+    "Nike Air Max 270": {
+        "id": 5,
+        "name": "Nike Air Max 270",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 119,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/efwa2z2axzuqhv35gxbz/air-max-270-shoe-8HhX8Z.jpg",
+        "slug": "Nike Air Max 270",
+        "desctiption": "<pCelebrating the 25th anniversary of the Air Max 95, the Nike Air Max ZM950 warps the OG's iconic side panels, adds fully visible Nike Air cushioning and boasts colours that express its attitude: untouchable, confident and tough.</p><ul><ol>Colour Shown: White/Black/White/Chile Red</ol><ol>Style: CJ6700-100</ol></ul>"
+    },
+    "Nike Air Max ZM950": {
+        "id": 6,
+        "name": "Nike Air Max ZM950",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 149,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41b1ef6d-97c5-4acc-becd-94c3b15cb557/air-max-zm950-shoe-GXGhxK.jpg",
+        "slug": "Nike Air Max ZM950",
+        "desctiption": "<p>The Nike Air Force 1 '07 is the b-ball OG that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to let you shine.</p><ul><ol>Colour Shown: White/Black</ol><ol>Style: CJ0952-100</ol></ul>"
+    },
+    "Nike Air VaporMax 2020 Flyknit": {
+        "id": 7,
+        "name": "Nike Air VaporMax 2020 Flyknit",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 113,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1f035601-bb2c-450a-bc3b-d88a2df87073/air-vapormax-2020-flyknit-shoe-gV1V9R.jpg",
+        "slug": "Nike Air VaporMax 2020 Flyknit",
+        "desctiption": "<p>Designed with sustainability in mind, the Nike Air VaporMax 2020 Flyknit is made from at least 50% recycled content by weight. That's a lot of trash! As part of Nike's journey towards lowering our impact, we're discovering new ways to put our waste to good use. By utilising leftover materials, recycled polyester, recycled foam and a Nike Air-Sole made from at least 75% recycled TPU, the VaporMax 2020 Flyknit marks the next step towards our ultimate goal of zero carbon and zero waste.</p><ul><ol>Colour Shown: Team Red/Flash Crimson/Gym Red</ol><ol>Style: CT1823-600Style: CT1823-600</ol></ul>"
+    },
+    "Nike Air Force 1 High '07": {
+        "id": 8,
+        "name": "Nike Air Force 1 High '07",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 119,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/li76xfogpzgct6nxifm3/air-force-1-high-07-shoe-BKPV3q.jpg",
+        "slug": "Nike Air Force 1 High '07",
+        "desctiption": "<p>The legend lives on in the Nike Air Force 1 High '07, an update on the iconic AF-1 that offers classic court style and premium cushioning.</p><ul><ol>Colour Shown: Flax/Gum Light Brown/Black/Wheat</ol><ol>Style: CJ9178-200</ol></ul>"
+    },
+    "Nike Pegasus Trail 2": {
+        "id": 9,
+        "name": "Nike Pegasus Trail 2",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 115,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3c48c5ac-68d7-4c86-8892-1f405f834bc0/pegasus-trail-2-trail-running-shoe-fWmzwd.jpg",
+        "slug": "Nike Pegasus Trail 2",
+        "desctiption": "<p>Find your wings on the path less travelled. The Nike Pegasus Trail 2 delivers durability and responsiveness to runners, trail athletes and outdoor enthusiasts. Versatile enough for your everyday miles, it features an ideal fit with plush cushioning and tough traction.</p><ul><ol>Colour Shown: Claystone Red/Velvet Brown/Healing Orange/Life Lime</ol><ol>Style: CK4305-600</ol></ul>"
+    },
+    "Nike SuperRep Cycle": {
+        "id": 10,
+        "name": "Nike SuperRep Cycle",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 104,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/74e90b58-871a-4cac-a2ab-644b10e5551b/superrep-cycle-indoor-cycling-shoe-n1C9sL.jpg",
+        "slug": "Nike SuperRep Cycle",
+        "desctiption": "<p>The Nike SB Zoom Blazer Mid takes a heritage design and tailors it to the needs of the modern skateboarder. Soft cushioning and a flexible sole work together to provide great boardfeel and traction.</p><ul><ol>Colour Shown: Black/White/White/White</ol><ol>Style: 864349-002</ol></ul>"
+    },
+    "Nike SB Zoom Blazer Mid": {
+        "id": 11,
+        "name": "Nike SB Zoom Blazer Mid",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 74,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fambaubeufwpravdy1xs/sb-zoom-blazer-mid-skate-shoe-17FxBf.jpg",
+        "slug": "Nike SB Zoom Blazer Mid",
+        "desctiption": "<p>The Nike Air Force 1 '07 is the b-ball OG that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to let you shine.</p><ul><ol>Colour Shown: White/Black</ol><ol>Style: CJ0952-100</ol></ul>"
+    },
+    "Nike Revolution 5": {
+        "id": 12,
+        "name": "Nike Revolution 5",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 47,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/rjlsjfiooaxrthntwypg/revolution-5-running-shoe-b9s3hv.jpg",
+        "slug": "Nike Revolution 5",
+        "desctiption": "<p>The Nike Revolution 5 cushions your stride with soft foam to keep you running in comfort. Lightweight knit material wraps your foot in breathable support, while a minimalist design fits in just about anywhere your day takes you.</p><ul><ol>Colour Shown: Midnight Navy/Dark Obsidian/White</ol><ol>Style: BQ3204-400</ol></ul>"
+    },
+    "Nike SB Zoom Stefan Janoski RM": {
+        "id": 13,
+        "name": "Nike SB Zoom Stefan Janoski RM",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 69,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dlgldxulxcgsz5v6du9z/sb-zoom-stefan-janoski-rm-skate-shoe-wrdqPL.jpg",
+        "slug": "Nike SB Zoom Stefan Janoski RM",
+        "desctiption": "<p>The Nike Air Force 1 '07 is the b-ball OG that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to let you shine.</p><ul><ol>Colour Shown: White/Black</ol><ol>Style: CJ0952-100</ol></ul>"
+    },
+    "Nike Mercurial Superfly 7 Elite MDS FG": {
+        "id": 14,
+        "name": "Nike Mercurial Superfly 7 Elite MDS FG",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 249,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c7747ccc-6df6-4ffb-84f4-27b1a043ce1d/mercurial-superfly-7-elite-mds-fg-football-boot-68MQMQ.jpg",
+        "slug": "Nike Mercurial Superfly 7 Elite MDS FG",
+        "desctiption": "<p>Dream of speed and play fast in the Nike Mercurial Superfly 7 Elite MDS FG. A streamlined upper combines with a Nike Aerowtrac zone for high-speed play and supercharged traction.</p><ul><ol>Colour Shown: White/Black/White</ol><ol>Style: BQ5469-110</ol></ul>"
+    },
+    "Kyrie 7 'Sisterhood'": {
+        "id": 15,
+        "name": "Kyrie 7 'Sisterhood'",
+        "brand": "Nike",
+        "gender": "male",
+        "price": 114,
+        "image-url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22793d2f-a225-4f52-b9eb-9aaa99433e8c/kyrie-7-sisterhood-basketball-shoe-WTN4WG.jpg",
+        "slug": "Kyrie 7 'Sisterhood'",
+        "desctiption": "<p>Kyrie made headlines with his generous, outspoken support of female ballers. Nike is joining him with the special 'Sisterhood' colourway of the Kyrie 7, which aims to empower and unify support for women athletes everywhere. The eye-grabbing aesthetic is highlighted by a detailed floral graphic underneath the pop of its yellow-outlined Swoosh logo. On or off the court, show your support for women athletes in style.</p><ul><ol>Colour Shown: Hyper Royal/Black/White/Hyper Royal</ol><ol>Style: CQ9326-400</ol></ul>"
+    },
+    "LITE RACER ADAPT 3.0 SHOES": {
+        "id": 16,
+        "name": "LITE RACER ADAPT 3.0 SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 65,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/5c3f7a88fdf245a48a7eabb400f44178_9366/lite-racer-adapt-3.0-shoes.jpg",
+        "slug": "LITE RACER ADAPT 3.0 SHOES",
+        "desctiption": "<p>Inspired by the run. Reimagined to run the day. Sharp, simple and all about the slip-on. The mesh upper and snug, cushioned feel in these adidas running-inspired shoes keep you comfortably cool. All day, every day. No matter what the morning throws at you, adapt. Stay light and up for whatever.</p><ul><ol>Sock-like fit<ol/><ol>Slip-on construction with laces</ol><ol>Mesh upper</ol><ol>Snug, cushioned feel</ol><ol>Running-inspired slip-on mesh shoe</ol></ul>"
+    },
+    "ULTRA 4D 5.0 SHOES": {
+        "id": 17,
+        "name": "ULTRA 4D 5.0 SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 200,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/e4e20051c6cb45b19b7eac7800a9e347_9366/ultra-4d-5.0-shoes.jpg",
+        "slug": "ULTRA 4D 5.0 SHOES",
+        "desctiption": "<p>When the adidas Ultraboost debuted back in 2015, it had an impact that spilled beyond the world of running. For this version of the shoes, we retooled the design on a 3D-printed midsole. The denser parts of the lattice provide more support, and the parts that are open feel more cushioned. These shoes don't just look like the future. They feel like it, too.</p><ul><ol>Regular fit<ol/><ol>Lace closure</ol><ol>Textile upper</ol><ol>adidas 4D midsole</ol><ol>Continental™ Rubber outsole</ol></ul>"
+    },
+    "NMD_R1 SHOES": {
+        "id": 18,
+        "name": "NMD_R1 SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 140,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/ad3348fcdb5f40a0b410a8ba00fc6427_9366/nmd_r1-shoes.jpg",
+        "slug": "NMD_R1 SHOES",
+        "desctiption": "<p>Run with it. These adidas NMD_R1 Shoes are a little technical and a lot street smart. Their midsole plugs flash back to the '80s, but the knit upper, full-length cushioned midsole and EVA inserts are 100 percent fashion forward.</p><ul><ol>Regular fit</ol><ol>Lace closure</ol><ol>Knit upper</ol><ol>Stretchy, foot-hugging feel</ol><ol>Iconic street shoes</ol></ul>"
+    },
+    "ULTRABOOST DNA PYTHON SHOES": {
+        "id": 19,
+        "name": "ULTRABOOST DNA PYTHON SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 180,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/5f730daaaf034f9fafbfabdf0127f39a_9366/ultraboost-dna-python-shoes.jpg",
+        "slug": "ULTRABOOST DNA PYTHON SHOES",
+        "desctiption": "<p>In Zulu culture, pythons are a symbol of great power, and their skins are often worn by traditional healers. Channel the strength of the great snake in these adidas Ultraboost DNA Python Shoes. The stretchy knit upper features python-inspired details. Energy-returning cushioning keeps you comfortable on the move.</p><ul><ol>Sock-like fit<ol/><ol>Snug, sock-like fit</ol><ol>Lace closure</ol><ol>adidas Primeknit textile upper</ol><ol>Stabilizing Torsion System</ol></ul>"
+    },
+    "ULTRABOOST 1.0 DNA SHOES": {
+        "id": 20,
+        "name": "ULTRABOOST 1.0 DNA SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 180,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/f56e19c9185b4ef38ee9ac280077b7ef_9366/ultraboost-1.0-dna-shoes.jpg",
+        "slug": "ULTRABOOST 1.0 DNA SHOES",
+        "desctiption": "<p>The race to end plastic waste is a long one. But these Ultraboost shoes belong somewhere near the starting line. For this version, we add some shine with reflective details on the toe. The adidas Primeknit upper has the same weave featured on the original design dropped back in 2015. Boost provides incredible energy return, whether you wear them while running or as an everyday pair.</p><ul><ol>Sock, snug-like fit<ol/><ol>Lace closure</ol><ol>adidas Primeknit textile upper</ol><ol>Textile lining</ol><ol>Boost midsole</ol></ul>"
+    },
+    "ULTRABOOST LTD SHOES": {
+        "id": 21,
+        "name": "ULTRABOOST LTD SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 180,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/1700b7b6202d4fd2aa21ac2f00b2022b_9366/ultraboost-ltd-shoes.jpg",
+        "slug": "ULTRABOOST LTD SHOES",
+        "desctiption": "<p>Every run is a chance to check in and build. These adidas running shoes are the tool you need to unlock your best self. The knit upper features wool yarn for added warmth on cold days. Get back what you put in with responsive cushioning that brings energy return in each step. Embrace the journey.</p><ul><ol>Regular fit<ol/><ol>Lace closure</ol><ol>Knit wool-blend upper</ol><ol>Running shoes designed for warmth</ol><ol>Responsive Boost midsole</ol></ul>"
+    },
+    "ULTRABOOST DNA PRIME SHOES": {
+        "id": 22,
+        "name": "ULTRABOOST DNA PRIME SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 140,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/eb8694e60adb41b3a822ab5601074785_9366/ultraboost-dna-prime-shoes.jpg",
+        "slug": "ULTRABOOST DNA PRIME SHOES",
+        "desctiption": "<p>Created to break world marathon records, the Adizero Prime became the first adidas shoe made with adidas Primeknit. Inspired by that trailblazing model, these adidas Ultraboost DNA Prime Shoes have a stretchy knit upper that riffs on the original. Responsive cushioning combined with a flexible rubber outsole gives them the legendary Ultraboost feel. So you can get out there and set some records of your own.</p><ul><ol>Regular fit<ol/><ol>Lace closure</ol><ol>adidas Primeknit textile upper</ol><ol>Runners with heel-to-toe support</ol><ol>Responsive Boost midsole</ol></ul>"
+    },
+    "KANSAS JAYHAWKS ULTRABOOST 1.0 DNA SHOES": {
+        "id": 23,
+        "name": "KANSAS JAYHAWKS ULTRABOOST 1.0 DNA SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 144,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/1e5f3ded4bae463d9922abf60189e99e_9366/kansas-jayhawks-ultraboost-1.0-dna-shoes.jpg",
+        "slug": "KANSAS JAYHAWKS ULTRABOOST 1.0 DNA SHOES",
+        "desctiption": "<p>Chase your personal best in running shoes made for top performance. The textile adidas Primeknit upper hugs the foot and supports natural movement. Responsive cushioning fuels every step. Bring grit and glory into each stride by repping your KU basketball gear.</p><ul><ol>Snug, sock-like fit<ol/><ol>Lace closure</ol><ol>adidas Primeknit textile upper</ol><ol>Interchangeable tongue patches</ol><ol>High-performance running shoes</ol></ul>"
+    },
+    "DAME 7 CHRISTMAS SHOES": {
+        "id": 24,
+        "name": "DAME 7 CHRISTMAS SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 110,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/161326a2d16b40f58255ac640180463a_9366/dame-7-christmas-shoes.jpg",
+        "slug": "DAME 7 CHRISTMAS SHOES",
+        "desctiption": "<p>No one in the game today sees the court quite like Damian Lillard does. These Dame 7 shoes from adidas Basketball embody every part of his game to ensure he becomes the closer each night he laces them up. They're styled with a graphic textile upper and equipped with an ultralight midsole, so it's no wonder Lillard wants the ball when the clock ticks down. That's why it's called Dame Time.</p><ul><ol>Regular fit<ol/><ol>Lace closure</ol><ol>Textile upper</ol><ol>Lightstrike cushioning</ol></ul>"
+    },
+    "NMD_R1 TRAIL SHOES": {
+        "id": 25,
+        "name": "NMD_R1 TRAIL SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 150,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/b36980da5cc94cd5bd5cac4400d8db20_9366/nmd_r1-trail-shoes.jpg",
+        "slug": "NMD_R1 TRAIL SHOES",
+        "desctiption": "<p>Don't let anyone tell you that the outdoors is wilder than the city. The city is a whole different kind of beast, and these adidas NMD_R1 Trail Shoes take their cues from the backcountry so you can explore the streets in comfort. A water-repellent knit upper makes sure you stay as dry as can be when things start coming down, or when a car inevitably hits that puddle you happen to be walking right by. (Of course.) The Continental™ Rubber outsole helps you stand tall, or at least upright thanks to its superior grip.</p><ul><ol>Lace closure<ol/><ol>Water-repellent knit upper</ol><ol>TPU mudguard</ol><ol>Boost midsole</ol></ul>"
+    },
+    "NIZZA HI RF SHOES": {
+        "id": 26,
+        "name": "NIZZA HI RF SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 54,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/1372ad93bd7a4090affdac2c01574260_9366/nizza-hi-rf-shoes.jpg",
+        "slug": "NIZZA HI RF SHOES",
+        "desctiption": "<p>Step it up, flyboy. Elevate any casual look in these adidas high top Nizza shoes. Satiny nylon replaces the usual canvas in a snappy salute to military bomber jackets. Lace 'em up and get ready to soar.</p><ul><ol>Lace closure<ol/><ol>Satin nylon upper</ol><ol>Leather lining</ol><ol>Satin nylon sneakers</ol></ul>"
+    },
+    "SUPERSTAR SHOES": {
+        "id": 27,
+        "name": "SUPERSTAR SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 90,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/3c174a406ba14e178fa2ac4600056888_9366/superstar-shoes.jpg",
+        "slug": "SUPERSTAR SHOES",
+        "desctiption": "<p>The stuff of legends. Yes, that's legends, plural. Because the adidas Superstar shoes can't be attached to just one story, or one person, or one place. We're talking 50 years here. There's their beginning on the hardwood. The moments on hip-hop stages after, which flooded into the crowds, then onto the streets. Then there's what you're doing in them. That's all you. The details that make them unmistakable are all there, from the rubber shell toe to 3-Stripes.</p><ul><ol>Lace closure<ol/><ol>Coated leather upper</ol><ol>Molded sockliner</ol><ol>Rubber outsole</ol></ul>"
+    },
+    "ZX 2K BOOST SHOES": {
+        "id": 28,
+        "name": "ZX 2K BOOST SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 140,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/a6c1d070b729432c9e2cac4800168f8e_9366/zx-2k-boost-shoes.jpg",
+        "slug": "ZX 2K BOOST SHOES",
+        "desctiption": "<p>ZX takes an icon to a new dimension of comfy. Innovated for the ultimate squish with new wrapped BOOST, ZX never felt so good. A springy Boost midsole swaddled in a wrap-around gradient. A progressive look and technical design, brimming with Boost. Feels too good to be explained.</p><ul><ol>Lace closure<ol/><ol>Mesh and TPU upper</ol><ol>Responsive shoes</ol><ol>Distinctive Boost midsole</ol></ul>"
+    },
+    "LITE RACER ADAPT 3.0 WIDE SHOES": {
+        "id": 29,
+        "name": "LITE RACER ADAPT 3.0 WIDE SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 65,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/bb41e491c07c4ae4bdddabd1010f8b04_9366/lite-racer-adapt-3.0-wide-shoes.jpg",
+        "slug": "LITE RACER ADAPT 3.0 WIDE SHOES",
+        "desctiption": "<p>Live life your way in these everyday adidas shoes. Cut wide for maximum comfort, this pair keeps you feeling good through every step of your day with a cushioned midsole and a snug feel. The running-inspired design insures that no matter what's on your agenda, you're supported.</p><ul><ol>Lace closure<ol/><ol>Textile upper</ol><ol>Clean, versatile sneakers</ol><ol>Cushioned Cloudfoam midsole</ol></ul>"
+    },
+    "POWERLIFT 4 SHOES": {
+        "id": 30,
+        "name": "POWERLIFT 4 SHOES",
+        "brand": "Adidas",
+        "gender": "male",
+        "price": 90,
+        "image-url": "https://assets.adidas.com/images/w_385,h_385,f_auto,q_auto:sensitive,fl_lossy/96353ba38b86441789feab97012f29d7_9366/powerlift-4-shoes.jpg",
+        "slug": "POWERLIFT 4 SHOES",
+        "desctiption": "<p>Take your weight training sessions to new heights. Made for stability, these weightlifting shoes have a narrow fit, a midsole wedge and a wide instep strap for complete lockdown. A rubber outsole keeps you firmly planted when lifting. The lightweight upper is made from durable canvas.</p><ul><ol>Narrow, snug fit<ol/><ol>Lace closure with a hook-and-loop strap</ol><ol>Canvas upper</ol><ol>Durable Adiwear outsole; Open forefoot and flexible toe design</ol><ol>Lightweight, locked-down feel</ol></ul>"
+    },
+    "RALLY PRO - MENS": {
+        "id": 31,
+        "name": "RALLY PRO - MENS",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 99,
+        "image-url": "https://wss.media.adc.aptos.io/pws/client/images/catalogue/products/CM100018M/1200/CM100018M_2.jpg",
+        "slug": "RALLY PRO - MENS",
+        "desctiption": "<p>The Champion Life™ Rally Pro Men's athletic sneakers deliver as much comfort as they do style. This slip-on high-top sneaker is the epitome of Champion heritage with its Champion logo detailing throughout and simplistic and sleek silhouette.</p><ul><ol>Sock Design with Suede and Leather Upper<ol/><ol>Elastic Logo Printed Strap Across Foot</ol><ol>Chenille Fabric C Logo on Outer Ankle</ol><ol>Woven Tongue and Heel Tab for Easy On and Off</ol></ul>"
+    },
+    "Champion Rally Script White Shoes": {
+        "id": 32,
+        "name": "Champion Rally Script White Shoes",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 54,
+        "image-url": "https://scene7.zumiez.com/is/image/zumiez/image/Champion-Rally-Script-White-Shoes-_314744.jpg",
+        "slug": "Champion Rally Script White Shoes",
+        "desctiption": "<p>Comfortable and streetwear-inspired, Champion introduces the Rally Script white shoes. Athletic with style to spare, these signature shoes are what you've come to expect from Champion. A clean, white look is complemented by Champion script detailing on the elastic gore strap as well as throughout the upper. With both tongue and heel pull tabs for easy access, and a high-top design for ankle support, these shoes are a striking addition to any casual, athleisure look.</p><ul><ol>Rally Script White Shoes from Champion.<ol/><ol>Woven mesh and elastic textile upper.</ol><ol>Elastic logo printed gore strap crossed across forefoot.</ol></ul>"
+    },
+    "Champion Men's 93 Eighteen Repeat Mens Casual Shoes": {
+        "id": 33,
+        "name": "Champion Men's 93 Eighteen Repeat Mens Casual Shoes",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 19,
+        "image-url": "https://www.olympiasports.net/dw/image/v2/BDWW_PRD/on/demandware.static/-/Sites-olympia-master-catalog/default/dwfeccfa66/images/large/CM100244M.1.416.jpeg?sw=600",
+        "slug": "Champion Men's 93 Eighteen Repeat Mens Casual Shoes",
+        "desctiption": "<p>Heritage style and plush comfort team up on the Men's Champion 93 Eighteen Repeat Casual Sneakers. On-trend and featuring low-key performance, these sneakers are a must-cop.</p><ul><ol>Large embroidered Champion logo and allover logo print on the 93Eighteen Repeat C<ol/><ol>Chunky midsole for 90's-inspired style</ol><ol>Easy pull on with heel pull tab</ol><ol>Cushioned tongue and collar for comfort</ol></ul>"
+    },
+    "Champion Rally KT Black Shoes": {
+        "id": 34,
+        "name": "Champion Rally KT Black Shoes",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 69,
+        "image-url": "https://scene7.zumiez.com/is/image/zumiez/image/Champion-Rally-KT-Black-Shoes-_320285.jpg",
+        "slug": "Champion Rally KT Black Shoes",
+        "desctiption": "<p>Add an exciting, runner-inspired look to your footwear collection with the Rally KT black shoes from Champion. These unique shoes have a laceless slip-on construction, with a stretchy textile upper, and an elastic collar to keep them secure and well-fitting. The thick, cushioned midsole ensures that your feet will have a ton of impact support and comfort, and the thick, multi-tread outsole gives you great traction through any conditions, making these shoes a no-brainer for any shoe afficianado.</p><ul><ol>Rally KT Black Shoes from Champion.<ol/><ol>Elastic textile upper with sidewalls.</ol><ol>Champion logo script embroidered at outer sidewalls.</ol><ol>Cushioned footbed.</ol></ul>"
+    },
+    "Champion Rally Crossover SF": {
+        "id": 35,
+        "name": "Champion Rally Crossover SF",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 125,
+        "image-url": "https://m.media-amazon.com/images/I/71uPcrDUzXL._AC_UL1500_.jpg",
+        "slug": "Champion Rally Crossover SF",
+        "desctiption": "<pFeaturing a synthetic sock-knit upper and a street ready look, the Champion® Rally Crossover hi-top sneaker will bring sporty style with a fun twist to your shoe collection. Crossed mid-foot straps with logo hits offer a secure fit. Pull tabs at the front and heel provide an easy on. Round-toe silhouette. Comfort cushion insole. Traction outsole offers durability and grip. Imported. Measurements: Weight: 1 lb Product measurements were taken using size 12, width M. Please note that measurements may vary by size. Weight of footwear is based on a single item, not a pair.</p><ul><ol>Crossed mid-foot straps with logo hits offer a secure fit.<ol/><ol>Pull tabs at the front and heel provide an easy on.</ol><ol>Round-toe silhouette.</ol></ul>"
+    },
+    "Champion Light Pink Mesh Women's Gusto Performance Cross Trainer": {
+        "id": 36,
+        "name": "Champion Light Pink Mesh Women's Gusto Performance Cross Trainer",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 59,
+        "image-url": "https://m.media-amazon.com/images/I/61vJ31GeP1L._AC_UL1400_.jpg",
+        "slug": "Champion Light Pink Mesh Women's Gusto Performance Cross Trainer",
+        "desctiption": "<p>You can push yourself a little more. The Gusto Performance Cross Trainer from Champion can help you get there. It features a breathable, sporty upper, laces for a good fit, padded collar, soft lining, cushioned memory foam insole for comfort, and a lightweight, non-marking outsole. Manmade materials</p><ul><ol>fabric and mesh<ol/><ol>Memory foam insole</ol><ol>Soft lining</ol><ol>Lightweight, non-marking outsole</ol></ul>"
+    },
+    "Champion Sneakers Debut FSR Upper Italian Shoe": {
+        "id": 37,
+        "name": "Champion Sneakers Debut FSR Upper Italian Shoe",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 65,
+        "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0un1j0Sy_vTivsVENUzbSjsOhh48nCyNT-Q&usqp=CAU",
+        "slug": "Champion Sneakers Debut FSR Upper Italian Shoe",
+        "desctiption": "<p>Champion sneakers debut FSR Upper Italian shoe brand Crossover Champion CASBIA x Champion AWOL Atlanta Tennis Racing Shoes</p><ul><ol>Sock Design with Suede and Leather Upper<ol/></ul>"
+    },
+    "Champion Rally Pro": {
+        "id": 38,
+        "name": "Champion Rally Pro",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 100,
+        "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg2UEuj5d8Rsns8y3PdxhQzc9Nm0OclBfJPg&usqp=CAU",
+        "slug": "Champion Rally Pro",
+        "desctiption": "<p>Boldly branded kicks are still having a moment today and an affordable option to cop is the Champion Rally Pro. Made from flexible textile and woven mesh, the upper comes with a suede side panel and elastic strap across the foot. These sneakers boast a well-supported midsole, rubber outsole, and multiple branding from the upper and heel, all the way to the quarter panel and bottom sole. But the best feature? Definitely the sock-like, padded collar and footbed that delivers maximum comfort and quality.</p><ul><ol>Breathable lining and construction<ol/><ol>Substantial insole and collar provide true comfort</ol><ol>Elastic bands for customization</ol><ol>Cozy feet that is perfect for daily wear</ol></ul>"
+    },
+    "Mens Shoes - Champion Zone High Top": {
+        "id": 39,
+        "name": "Mens Shoes - Champion Zone High Top",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 58,
+        "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVa9meTcl2w-WS2-m0uNr-pL2EQ_RlR7cySQ&usqp=CAU",
+        "slug": "Mens Shoes - Champion Zone High Top",
+        "desctiption": "<p>The Champion Life™ Rally Pro Men's athletic sneakers deliver as much comfort as they do style. This slip-on high-top sneaker is the epitome of Champion heritage with its Champion logo detailing throughout and simplistic and sleek silhouette.</p><ul><ol>Sock Design with Suede and Leather Upper<ol/><ol>Elastic Logo Printed Strap Across Foot</ol><ol>Chenille Fabric C Logo on Outer Ankle</ol><ol>Woven Tongue and Heel Tab for Easy On and Off</ol></ul>"
+    },
+    "C9 Champion Men's Pursuit Sneaker": {
+        "id": 40,
+        "name": "C9 Champion Men's Pursuit Sneaker",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 21,
+        "image-url": "https://m.media-amazon.com/images/I/81Hgheh1kQL._AC_UL320_.jpg",
+        "slug": "C9 Champion Men's Pursuit Sneaker",
+        "desctiption": "<p>C9 Champion Pursuit is a men's athetlic shoe with a heathered knit upper and an EVA midsole that provides all day comfort and style.</p><ul><ol>Synthetic sole<ol/><ol>performance athletic shoe</ol><ol>Speed Knit knit upper for comfort and breathability</ol><ol>Cushion Fit memory foam sock</ol></ul>"
+    },
+    "Champion Men's 93Eighteen Lace Up Sneaker": {
+        "id": 41,
+        "name": "Champion Men's 93Eighteen Lace Up Sneaker",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 104,
+        "image-url": "https://m.media-amazon.com/images/I/61KZz9bIAmL._AC_UL320_.jpg",
+        "slug": "Champion Men's 93Eighteen Lace Up Sneaker",
+        "desctiption": "<p>The Champion® 93Eighteen Classic sneakers are a 90's throwback worthy of any budding sneaker head's collection!</p><ul><ol>Rubber sole<ol/><ol>Textile upper with synthetic overlay and Champion logo on the side</ol><ol>Two-color C logo on the side and heel</ol><ol>Lace-up construction</ol></ul>"
+    },
+    "Champion Men's Tank": {
+        "id": 42,
+        "name": "Champion Men's Tank",
+        "brand": "Champion",
+        "gender": "male",
+        "price": 69,
+        "image-url": "https://m.media-amazon.com/images/I/71hPHDb0+oL._AC_UL320_.jpg",
+        "slug": "Champion Men's Tank",
+        "desctiption": "<p>The Champion® Tank sneakers are ready for action. Leather and breathable mesh upper in a colorful silhouette. Lace-up closure for a secure fit. Padded collar and tongue for added comfort. Breathable textile lining and cushioned footbed for all-day wear. Durable rubber outsole with logo tread for grip. Imported. Measurements: Weight: 1 lb 5.3 oz Product measurements were taken using size 12, width M. Please note that measurements may vary by size. Weight of footwear is based on a single item, not a pair.</p><ul><ol>100% Authentic<ol/><ol>Durable</ol</ul>"
+    },
+    "Jordan 6 Rings": {
+        "id": 43,
+        "name": "Jordan 6 Rings",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 170,
+        "image-url": "https://www.footlocker.com/product/jordan-6-rings-mens/22992012.html",
+        "slug": "Jordan 6 Rings",
+        "desctiption": "<p>In addition to paying homage to the designs its six predecessors, the 6 Rings is available in iconic colorways from those classic silhouettes, ideal for the retro modern look. The 6 Rings is also featured in its own all-new color and material combinations for a fresh, new vibe. Foot Locker carries the Jordan 6 Rings in all the latest must-have looks, so make sure to cop this historic design today.</p><ul><ol>A combination of all six iconic models Michael Jordan wore when he won championships from 1991-98.</ol><ol>Full-grain leather, synthetic leather, and engineered mesh upper. Materials vary on select styles.</ol><ol>Sole unit of the AJ 13 with a Phylon™ foam midsole and rubber outsole.</ol></ul>"
+    },
+    "Jordan Retro 12": {
+        "id": 44,
+        "name": "Jordan Retro 12",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 80,
+        "image-url": "https://www.footlocker.com/product/jordan-retro-12-boys-preschool/51186602.html",
+        "slug": "Jordan Retro 12",
+        "desctiption": "<p>The Boys’ Preschool Jordan Retro 12 is the preschool sizing of the iconic Air Jordan 12 for young fans. First debuted in 1997, the Air Jordan 12 is one of the most beloved models in the entire line, and always a welcome sight for collectors when it makes a comeback. This miniature sizing ensures that even the youngest Jordan collectors can still enjoy the classic look of the silhouette. With clean and luxurious style, the Jordan 12 was designed by Tinker Hatfield, the mind behind many of the most iconic Air Jordan and Nike sneakers. The design was partly inspired by the Japanese rising sun motif, which is interpreted across the upper with a large toe panel that sweeps from the front of the shoe to the midfoot that represents the sun, and stitched lines across the rest of the upper that represent the sun’s rays. Other details traditional to the Jordan 12 include the pebbled basketball texture on the toe panels, the plastic Jumpman tab at the midfoot, and a branded heel tab with the statement: “Quality Inspired By The Greatest Player Ever.</p><ul><ol>Full-grain leather or synthetic upper. Materials vary on select styles.</ol><ol>Signature toe panels with pebbled leather texture.</ol><ol>Jumpman-branded metal lace eyelets for style.</ol><ol>Heel tab loop for easier access.</ol></ul>"
+    },
+    "Jordan Retro 4": {
+        "id": 45,
+        "name": "Jordan Retro 4",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 80,
+        "image-url": "https://www.footlocker.com/product/jordan-retro-4-boys-preschool/Q7669160.html",
+        "slug": "Jordan Retro 4",
+        "desctiption": "<ul><ol>Split grain leather and nubuck upper for a premium look.</ol><ol>Mesh in the quarter panels offer added breathability.</ol><ol>Heel pull-tab provides easy of entry.</ol><ol>Solid rubber cupsole with multi-directional herringbone pattern for increased traction.</ol></ul>"
+    },
+    "Jordan Zoom '92": {
+        "id": 46,
+        "name": "Jordan Zoom '92",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 150,
+        "image-url": "https://www.footlocker.com/product/jordan-zoom-92-mens/K9183001.html",
+        "slug": "Jordan Zoom '92",
+        "desctiption": "<p>Tap into the bold spirit of '90s style while enjoying the solace of modern comfort. The Jordan Zoom '92 is highlighted by an underfoot combo of lightweight foam and responsive cushioning, along with a soft, stretchy fit sleeve. Together, they deliver unmatched comfort. The aesthetics borrow features from several retro kicks, such as the sleeve from the Air Max 180 and a stitched-down heel badge from the Air Jordan VII. With both the Nike Air and Jumpman designs molded on outsole, these sneakers are truly an accumulation of excellence.</p><ul><ol>A plush foam midsole and visible Zoom Air units under the ball of your foot provide lightweight, responsive cushioning.</ol><ol>Rubber outsole with herringbone tread pattern ensure premium traction and durability.</ol><ol>Grooves in the outsole add to shoe’s flexibility.</ol><ol>External rigid overlay maintains stability.</ol><ol>Lightweight mesh material with structured overlays promote breathability.</ol>"
+    },
+    "Jordan Flight 45 High IP": {
+        "id": 47,
+        "name": "Jordan Flight 45 High IP",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 125,
+        "image-url": "https://www.footlocker.com/product/jordan-flight-45-high-ip-mens/C2569001.html",
+        "slug": "Jordan Flight 45 High IP",
+        "desctiption": "<p>The Jordan Flight 45 High IP features a snug leather upper with breathable mesh panels for a comfortable fit. The high-top profile offers support, stability, and style. A cushy, responsive Phylon™ midsole delivers incredible impact protection and the rubber outsole with flex grooves provides durable traction and flexibility. Wt. 17.2 oz.</p>"
+    },
+    "Jordan AJ 1 Mid SE": {
+        "id": 48,
+        "name": "Jordan AJ 1 Mid SE",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 125,
+        "image-url": "https://www.footlocker.com/product/jordan-aj-1-mid-se-mens/52542104.html",
+        "slug": "Jordan AJ 1 Mid SE",
+        "desctiption": "<p>The Men’s Air Jordan 1 Mid SE is the special edition of mid-top Jordan 1 in premium materials and considered colorways. Michael Jordan’s first signature shoe from 1985 was modified into this mid-top form beginning in the early 2000s as an alternative for those who love the look of the iconic sneaker but prefer a slightly lower silhouette. The Air Jordan 1 Mid replicates the classic look of the Air Jordan 1 High with a lower collar height. This “SE” version of the Jordan 1 Mid is constructed in premium materials including full-grain leather, suede, nubuck, textiles, and/or patent leather with limited edition colorways. All of the details you know and love from the original AJ1 design are present, including the classic “Wings” Air Jordan logo, side Swooshes, and low-profile rubber cupsole.</p><ul><ol> “Special Edition” of the iconic Air Jordan 1 in mid-top form with premium materials.</ol><ol>Leather, suede, or nubuck upper on most styles. See each style for specific construction.</ol><ol>Classic Air Jordan “Wings” logo on ankle panel.</ol>"
+    },
+    "Jordan AJ XXXV": {
+        "id": 49,
+        "name": "Jordan AJ XXXV",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 180,
+        "image-url": "https://www.footlocker.com/product/jordan-aj-xxxv-mens/Z5657100.html",
+        "slug": "Jordan AJ XXXV",
+        "desctiption": "<p>Take your game to legendary heights with the signature Jordan AJ XXXV. These kicks feature the game-changing Eclipse Plate, modified to extend higher into the midsole, to improve stability and lateral support. The top tongue design, molded foam pods in the collar, and Kurim detailing pay tribute to the Air Jordan V but are modified to suit today’s playing style.</p><ul><ol>Exposed Zoom Air units ensure greater responsiveness during movement.</ol><ol>Herringbone pattern on the sole offers superior grip and traction.</ol><ol>Flightwire tech in the midsole adds to flexibility and support.</ol>"
+    },
+    "Jordan Jumpman Team 1": {
+        "id": 50,
+        "name": "Jordan Jumpman Team 1",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 140,
+        "image-url": "https://www.footlocker.com/product/jordan-jumpman-team-1-mens/C9171101.html",
+        "slug": "Jordan Jumpman Team 1",
+        "desctiption": "<p>There is no I in team and you will feel like a team player with these Jordan Jumpman Team 1 Basketball Shoes. A thickly stitched upper, aggressive traction and Zoom Air cushioning combine for durability, support and responsiveness. Genuine and synthetic leathers in the upper provide season-long support and durability.</p><ul><ol>Zoom Air cushioning in the heel and forefoot is lightweight, low-profile and responsive.</ol><ol>Traditional tongue and laces.</ol><ol>Durable rubber outsole.</ol><ol>Foam midsole.</ol>"
+    },
+    "Jordan Max Aura 2": {
+        "id": 51,
+        "name": "Jordan Max Aura 2",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 120,
+        "image-url": "https://www.footlocker.com/product/jordan-max-aura-2-mens/K6636006.html",
+        "slug": "Jordan Max Aura 2",
+        "desctiption": "<p>Channel the aura of street excellence. The Jordan Max Aura 2’s look draws inspiration from a variety of past Air Jordan models for a hybrid of hot imagery. Meanwhile, its innovative construction delivers a top-notch performance on the court. When it comes to upping your game and your look, look no further than this gritty pair of kicks.</p><ul><ol>Leather upper with wraparound mud guard offers premium durability.</ol><ol>Heel overlay ensures complete support.</ol><ol>Visible Max Air unit at the heel supplies lightweight impact comfort and cushioning.</ol><ol>Rubber outsole with a herringbone pattern delivers high-quality traction.</ol>"
+    },
+    "Jordan Maxin 200": {
+        "id": 52,
+        "name": "Jordan Maxin 200",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 130,
+        "image-url": "https://www.footlocker.com/product/jordan-maxin-200-mens/Z9174100.html",
+        "slug": "Jordan Maxin 200",
+        "desctiption": "<p>With a premium upper inspired by Jordan classics and big Air cushioning, the Jordan Maxin 200 shows off your Jordan pride and keeps every step comfortable.</p><ul><ol>Leather, synthetic and textile upper gives comfortable support.</ol><ol>200% more Air underfoot.</ol><ol>Molded grills highlight design inspiration from the AJ5.</ol><ol>Rubber outsole creates traction on a variety of surfaces.</ol>"
+    },
+    "Jordan Dub Zero": {
+        "id": 53,
+        "name": "Jordan Dub Zero",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 150,
+        "image-url": "https://www.footlocker.com/product/jordan-dub-zero-mens/11046116.html",
+        "slug": "Jordan Dub Zero",
+        "desctiption": "<p>The Air Jordan Dub Zero stands out with its intricately detailed, laser-etched upper. Air-Sole units provide impact protection, while its hidden lacing system and foam-backed collar lock down a performance fit.</p><ul><ol>Laser-etched details celebrate the history of the Air Jordan franchise</ol><ol>Visible Air-Sole unit in the heel for maximum impact protection.</ol><ol>Solid rubber outsole with a herringbone pattern provides durable traction.</ol><ol>External TPU heel piece enhances stability and support.</ol><ol>Foam-backed collar lining provides comfort</ol>"
+    },
+    "Jordan Retro 1 High OG": {
+        "id": 54,
+        "name": "Jordan Retro 1 High OG",
+        "brand": "Jordan",
+        "gender": "male",
+        "price": 149,
+        "image-url": "https://www.footlocker.com/product/jordan-retro-1-high-og-mens/55088060.html",
+        "slug": "Jordan Retro 1 High OG",
+        "desctiption": "<p>The Men's Air Jordan Retro 1 High OG is Michael Jordan’s iconic first signature shoe in its truest form. Accept no substitutes when it comes the legendary sneaker. The Air Jordan 1 Retro in its High OG iteration is designed to best replicate the shape, quality, and materials of the original release of the shoe in 1985. The Air Jordan 1 Retro High OG features the accurate height and shape of the original ’85 version, as well as the original “Nike Air” logo branding on the tongue tag to best represent the pairs Jordan wore on court for his rookie season when he and his Air Jordan line first became a national phenomenon.</p><ul><ol>Accurate shape, materials, and branding to best represent the Air Jordan 1 High’s original 1985 release.</ol><ol>Full-grain leather upper with padded tongue and mesh inner lining for comfort.</ol><ol>Iconic Swoosh and Air Jordan “Wings” logo featured on upper.</ol><ol>Nike Air branding on tongue like the original 1985 version.</ol>"
+    }
+}
